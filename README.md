@@ -3,7 +3,7 @@ Pretty simple perlin noise for Lua.
 
 # How To Use
 Just like this:
-``lua
+```lua
 local Pearse = require "Pearse.lua"
 local Noise = Pearse.new()
 
